@@ -13,7 +13,8 @@ body {
 .section-matrix img {
     width: 100%;
 }
-.section-matrix .section-matrix-link {
+.section-matrix,
+.section-matrix-link {
     font-family: fantasy, cursive;
 }
 
@@ -41,10 +42,12 @@ body {
     margin: 0;
     padding: 0px;
 }
-.tasks-list-elem, .header {
+.tasks-list-elem,
+.header {
     list-style: none;
 }
-input,button{
+input,
+button{
     outline: none;
 }
 button {
