@@ -138,7 +138,7 @@ button.delete img:hover {
 
 /* Edit Task */
 .tasks-list-elem input[type=text] {
-    display:none;
+    display: none;
 }
 .edit-mode input[type=text] {
     display: inline-block;
